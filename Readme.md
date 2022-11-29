@@ -20,7 +20,5 @@ https://task-management-application-ten.vercel.app
 4. Delete Task
 5. Open Task
 
-## Authors
 
-- [@Aditya-raj77x](https://github.com/Aditya-raj77x)
 
